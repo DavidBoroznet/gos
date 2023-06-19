@@ -1,0 +1,30 @@
+.header {
+            background-color: #343a40;
+            padding: 10px;
+            text-align: center;
+            margin-bottom: 20px;
+}
+.container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+}
+
+.card {
+            width: 300px;
+            margin: 10px;
+}
+
+.card-body {
+            text-align: center;
+}
+
+.card-text {
+            margin-bottom: 20px;
+}
+h1 {
+    color: white;
+}
+body {
+    background-color: #e6f1f6;
+}
